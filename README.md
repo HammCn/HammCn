@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello guys 👋
 
-<!--
-**HammCn/HammCn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Hamm** and here is the informations maybe you want to find:
 
-Here are some ideas to get you started:
+I'm a programer in ChongQing , China.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Maybe you can get all my projects on another git platform called gitee: [https://gitee.com/hamm](https://gitee.com/hamm)
+
+And mail me "admin#hamm.cn" if you want to contact me.
+
+You can also visit my homepage for more information.
+
+Last, I wish you fuck your bugs!
+
+## 啥玩意?同胞?
+
+直接访问我的Gitee地址吧，这里只是个镜像账号。 [https://gitee.com/hamm](https://gitee.com/hamm)
