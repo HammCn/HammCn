@@ -1,4 +1,4 @@
-## Hello guys 👋
+## 👋 Hello guys 
 
 This is **Hamm** and here is the informations maybe you want to find:
 
@@ -12,6 +12,6 @@ You can also visit my homepage for more information.
 
 Last, I wish you fuck your bugs!
 
-## 啥玩意?同胞?
+## 👋 啥玩意?同胞?
 
 直接访问我的Gitee地址吧，这里只是个镜像账号。 [https://gitee.com/hamm](https://gitee.com/hamm)
