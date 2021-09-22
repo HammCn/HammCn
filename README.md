@@ -12,7 +12,7 @@ You can also visit my homepage for more information. [https://Hamm.cn](https://h
 
 Last, I wish you fuck your bugs!
 
-## 👋 啥玩意?同胞?
+## 👋 牛逼的中国人?
 
 直接访问我的Gitee地址吧，这里只是个镜像账号。 [https://gitee.com/hamm](https://gitee.com/hamm)
 
