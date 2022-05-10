@@ -1,4 +1,4 @@
-## 👋 Hello guys 
+## 👋 Hi guys 
 
 This is **Hamm** and here is the informations maybe you want to find:
 
