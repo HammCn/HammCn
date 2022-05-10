@@ -14,6 +14,8 @@ Last, I wish you fuck your bugs!
 
 ## 👋 牛逼的中国人?
 
-直接访问我的Gitee地址吧，这里只是个镜像账号。 [https://gitee.com/hamm](https://gitee.com/hamm)
+好兄弟，你也可以访问我的Gitee: [https://gitee.com/hamm](https://gitee.com/hamm)
 
 当然,个人主页也可以：[https://Hamm.cn](https://hamm.cn)
+
+希望代码没事！
