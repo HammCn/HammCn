@@ -1,11 +1,13 @@
-## 👋 Hi guys 
+# 👋 Hi bro
 
-This is **Hamm**, a programer in ChongQing, China.
+### My name is Hamm, it's my shit-code repositories here.
 
-It's my shit-code repositories, you can leave a message if you need some help.
+I am a product designer&developer in ```ChongQing, China```. I'm focusing on web technology and operation skill on the Linux server side.
 
-Love coding, driving, designing and cooking.
+After work, I'm also interested in driving, photographing, swimming, cooking and playing games.
 
-Last, I wish you enjoy your codes and fuck your bugs!
+You can get more information from [My HomePage](https://hamm.cn), but [Email](mailto:admin@hamm.cn) will be the quickest way to contact me.
 
-You can get more informations from [My HomePage](https://hamm.cn).
+I wish you enjoy your codes and fuck your bugs
+
+That's all and nice to meet you.
