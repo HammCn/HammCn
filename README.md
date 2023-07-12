@@ -2,7 +2,7 @@
 
 ### My name is Hamm, it's my shit-code repositories here.
 
-I am a product designer&developer in ```ChongQing, China```. 
+I am a product designer&developer from ```ChongQing, China```. 
 
 I'm focusing on web technology and operation skill on the Linux server side.
 
