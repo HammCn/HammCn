@@ -10,6 +10,6 @@ After work, I'm also interested in driving, photographing, swimming, cooking and
 
 You can get more information from [My HomePage](https://hamm.cn), but [Email](mailto:admin@hamm.cn) will be the quickest way to contact me.
 
-I wish you enjoy your codes and fuck your bugs
+I wish you enjoy your codes and fuck your bugs.
 
 That's all and nice to meet you.
