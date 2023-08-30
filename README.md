@@ -1,6 +1,6 @@
 # 👋 Hi bro
 
-### My name is Hamm, it's my shit-code repositories here.
+### My name is Hamm, it's my shit-code-repository here.
 
 I am a product designer&developer from ```ChongQing, China```. 
 
