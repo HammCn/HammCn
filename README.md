@@ -1,4 +1,4 @@
-<font size=18>👋 Hi bro</font>
+# 👋 Hi bro
 
 **My name is Hamm, it's my shit-code-repository here.**
 
