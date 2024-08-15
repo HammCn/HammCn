@@ -1,6 +1,8 @@
 
 # 👋 Hi bro
 
+<a href="https://hamm.cn" target="_blank"><img src="https://svg.hamm.cn/badge.svg?key=HomePage&value=Hamm.cn"/></a>
+
 **My name is Hamm, it's my shit-code-repository here.**
 
 I am a `product designer`, `full stack developer`, `open source contributor` from **"ChongQing, China"** and focusing on web technology and operation skill on the server side.
