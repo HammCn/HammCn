@@ -1,7 +1,7 @@
 
 # 👋 Hi bro
 
-<a href="https://hamm.cn" target="_blank"><img src="https://svg.hamm.cn/badge.svg?key=HomePage&value=Hamm.cn"/></a>
+<a href="https://hamm.cn" target="_blank"><img src="https://svg.hamm.cn/badge.svg?key=HomePage&value=Hamm.cn"/></a> <img src="https://svg.hamm.cn/github.svg?type=fans&user=hammcn"/> <img src="https://svg.hamm.cn/gitee.svg?type=fans&user=hamm"/> <img src="https://svg.hamm.cn/juejin.svg?type=fans&user=475426363282808"/>
 
 **My name is Hamm, it's my shit-code-repository here.**
 
