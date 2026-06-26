@@ -6,7 +6,7 @@
 
 I am a `product designer`, `full stack developer`, `open source contributor` from **"HangZhou ~~ChongQing~~, China"**,
 
-Now I'm focusing on web technology and operation skill on the server side, and also interested in **🚘** **📷** **🏊** **☕** **🏝** **🎮**
+Now I'm focusing on web technology and operation skill on the server side, and also interested in **🏍** **📷** **🏊** **☕** **🏝** **🎮**
 
 You can get more information from [My HomePage](https://hamm.cn), but [Email](mailto:admin@hamm.cn) will be the quickest way to contact me.
 
